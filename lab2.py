@@ -1,6 +1,5 @@
 import math
-# Name: Ayushi Gupta    
-# Pledge:I pledge my honor that I have abided by the Stevens Honor System.
+
 
 # All of the functions with the solve prefix are to be implemented using four fours and
 # basic math operations to equal the number in the function title. The basic operations are
